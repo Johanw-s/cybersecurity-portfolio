@@ -9,8 +9,8 @@ Välkommen till min cybersäkerhetsportfölj! Här dokumenterar jag mitt lärand
 - 🛠️ Egna verktyg och skript
 - 📜 Certifikat och kurser
   
-- ✅ [TryHackMe: Pre Security](https://tryhackme.com/room/presecuritychallenge) – Grundläggande kunskap inom nätverk, Linux, och cybersäkerhetskoncept.  
-  ![Pre Security Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZUT3K4TII8.pdf)
+  ✅ [TryHackMe: Pre Security](https://tryhackme.com/room/presecuritychallenge) – Grundläggande kunskap inom nätverk, Linux, och cybersäkerhetskoncept.  
+ 
 ## 📌 Kontakt
 
 - GitHub: https://github.com/Johanw-s
